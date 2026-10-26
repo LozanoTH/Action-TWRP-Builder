@@ -1,3 +1,6 @@
+[![Licencia](https://img.shields.io/github/license/LozanoTH/Action-TWRP-Builder)](LICENSE)
+[![Lenguaje](https://img.shields.io/github/languages/top/LozanoTH/Action-TWRP-Builder)](https://github.com/LozanoTH/Action-TWRP-Builder)
+
 # Action TWRP Builder
 
 Compila **TWRP** (Team Win Recovery Project) automáticamente usando **GitHub Actions**, sin necesidad de un servidor o máquina local.
